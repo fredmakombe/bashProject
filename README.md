@@ -1,2 +1,2 @@
 # jenkins-pipeline
-triggering push notifications
+trigger push notifications
